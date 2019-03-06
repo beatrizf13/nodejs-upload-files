@@ -1,5 +1,7 @@
 node_modules
 
-tmp/uploads/*
+#tmp/uploads/*
+
+package-lock.json
 
 yarn-error.log
