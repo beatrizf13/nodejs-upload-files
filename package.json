@@ -6,8 +6,8 @@
   "author": "beatrizf13 <azz.felix7@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "dev": "nodemon bin/www",
+    "start": "node bin/www"
   },
   "dependencies": {
     "aws-sdk": "^2.395.0",
